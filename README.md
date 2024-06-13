@@ -14,5 +14,5 @@ This is a SPI slave module (mode 0), configurable by a 16 bits long bus. There a
   - 0x4 = Current fill level of FIFO TX.
   - 0x5 = Current fill level of FIFO RX.
 
-Device used: MachXO3LF-9400C.
-Software used: Lattice Diamond.
+#### Device used: MachXO3LF-9400C.
+#### Software used: Lattice Diamond.
