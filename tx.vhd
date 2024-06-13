@@ -5,7 +5,7 @@
 -- Module Name:     TX - Behavioral
 -- Target Devices:  MachXO3LF-9400C
 -- Description: 
--- 
+--     One start bit, and one stop bit for a 8 bits register
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
