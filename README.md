@@ -1,5 +1,5 @@
 # UART-Extension
-This is a SPI slave module, configurable by a 16 bits long bus. There are 3 UARTs as output.
+This is a SPI slave module (mode 0), configurable by a 16 bits long bus. There are 3 UARTs as output.
 ### Input databus:
   - Bit 13 to 15: choose UART (0x0 for UART0, 0x1 for UART1, 0x2 for UART2).
   - Bit 9 to 12: choose function.
